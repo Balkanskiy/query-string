@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78d8966b-0404-4ea5-a420-a45a9994f6d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gHjPZUmSc1j2KQVcbaP68RyRIP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d8966b-0404-4ea5-a420-a45a9994f6d1" name="Default Changelist" comment="" />
+      <created>1597778389144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597778389144</updated>
+      <workItem from="1597778390333" duration="1079000" />
+      <workItem from="1597780448444" duration="1429000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix sort">
+      <created>1597779350425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779350425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bump">
+      <created>1597781495210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597781495210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pass sort method">
+      <created>1597781527596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597781527596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix sort" />
+    <MESSAGE value="Bump" />
+    <MESSAGE value="Pass sort method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pass sort method" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597782036169">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state x="379" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/38.23.1754.1097@38.23.1754.1097" timestamp="1597782036169" />
+    <state width="1733" height="303" key="GridCell.Tab.0.bottom" timestamp="1597781791027">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1597779537508" />
+    <state width="1733" height="303" key="GridCell.Tab.0.bottom/38.23.1754.1097@38.23.1754.1097" timestamp="1597781791027" />
+    <state width="1733" height="303" key="GridCell.Tab.0.center" timestamp="1597781791026">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1597779537507" />
+    <state width="1733" height="303" key="GridCell.Tab.0.center/38.23.1754.1097@38.23.1754.1097" timestamp="1597781791026" />
+    <state width="1733" height="303" key="GridCell.Tab.0.left" timestamp="1597781791026">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1597779537506" />
+    <state width="1733" height="303" key="GridCell.Tab.0.left/38.23.1754.1097@38.23.1754.1097" timestamp="1597781791026" />
+    <state width="1733" height="303" key="GridCell.Tab.0.right" timestamp="1597781791027">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1597779537507" />
+    <state width="1733" height="303" key="GridCell.Tab.0.right/38.23.1754.1097@38.23.1754.1097" timestamp="1597781791027" />
+    <state x="523" y="304" key="Vcs.Push.Dialog.v2" timestamp="1597781529539">
+      <screen x="38" y="23" width="1754" height="1097" />
+    </state>
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597779352312" />
+    <state x="523" y="304" key="Vcs.Push.Dialog.v2/38.23.1754.1097@38.23.1754.1097" timestamp="1597781529539" />
+    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1597779035691">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="594" y="315" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1597779035691" />
+  </component>
+</project>
