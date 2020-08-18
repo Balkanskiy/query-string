@@ -1,6 +1,6 @@
 {
 	"name": "query-string-es5-with-sort",
-	"version": "5.1.1",
+	"version": "5.1.2",
 	"description": "Parse and stringify URL query strings",
 	"license": "MIT",
 	"repository": "sindresorhus/query-string",
